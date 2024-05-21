@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @theprasannar
-- 👀 I’m interested in web development having knowledge in NodeJs and Reactjd.
-- 🌱 I’m currently learning Advanced Software development.
-- 💞️ I’m looking to collaborate on projects that would improve my skiils.
-- 📫 How to reach me prasannadesai07@gmail.com
 
-<!---
-theprasannar/theprasannar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Prasanna Desai
+💼 I’m a professional web developer with extensive experience in Node.js, React.js, and advanced software development.
+🌟 I specialize in creating robust, high-performance applications and am passionate about continuous learning and improvement.
+🤝 I’m open to collaborating on innovative projects that challenge my skills and contribute to impactful solutions.
+📫 Reach me at prasannadesai07@gmail.com
